@@ -1,1 +1,0 @@
-var _calendar = $('.calendar');_calendar.append('')
