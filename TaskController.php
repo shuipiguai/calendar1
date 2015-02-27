@@ -1,6 +1,7 @@
 <?php
 require_once "conn.php";
 require_once "task.class.php";
+require_once "libs/Smarty.class.php";
 
 class TaskController{
 	//关联日历任务列表
